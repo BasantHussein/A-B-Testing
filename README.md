@@ -3,3 +3,4 @@ A/B testing of website page by using:
 probability
 hypothesis testing
 Logistic regression
+And python
